@@ -1,4 +1,4 @@
-![FCC Logo](<img width="300" height="56" alt="fcc" src="https://github.com/user-attachments/assets/a7b4d1ca-1f55-4bd9-b8f5-17e6500941ec" />)
+![FCC Logo](https://github.com/user-attachments/assets/a7b4d1ca-1f55-4bd9-b8f5-17e6500941ec)
 
 
 
