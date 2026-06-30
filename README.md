@@ -1,4 +1,5 @@
-![FCC Logo](<img width="300" height="56" alt="fcc" src="https://github.com/user-attachments/assets/64a8dc1d-7be0-4246-b6f2-9a74f69ac12a" />)
+![FCC Logo](<img width="300" height="56" alt="fcc" src="https://github.com/user-attachments/assets/a7b4d1ca-1f55-4bd9-b8f5-17e6500941ec" />)
+
 
 
 # Python Certification
