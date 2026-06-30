@@ -1,4 +1,5 @@
-![Python_Bootcamp](<img width="300" height="56" alt="pobrane" src="https://github.com/user-attachments/assets/7e42025b-0322-4e89-9f31-b7916331534d" />)
+![FCC Logo](<img width="300" height="56" alt="fcc" src="https://github.com/user-attachments/assets/64a8dc1d-7be0-4246-b6f2-9a74f69ac12a" />)
+
 
 # Python Certification
 
