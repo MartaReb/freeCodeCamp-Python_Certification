@@ -13,7 +13,7 @@ This repository contains my solutions to the **Python Certification** projects b
 
 | Project                 | Status | Solution                       |
 | ----------------------- | ------ | ------------------------------ |
-| Report Card Printer    | ✅      | [View](./Python%20Basics/01.%20Report%20Card%20Printer.py) |
-| Employee Profile Generator        | ⏳      | Coming soon                    |
-| Bill Splitter       | ⏳      | Coming soon                    |
+| Report Card Printer    | ✅  | [View](./Python%20Basics/01.%20Report%20Card%20Printer.py) |
+| Employee Profile Generator   | ✅  | [View](./Python%20Basics/02.%20Employee%20Profile%20Generator.py) |
+| Bill Splitter  | ⏳   | Coming soon |
 
