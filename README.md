@@ -16,4 +16,5 @@ This repository contains my solutions to the **Python Certification** projects b
 | 01 | Report Card Printer    | ✅  | [View](./Python%20Basics/01.%20Report%20Card%20Printer.py) |
 | 02 | Employee Profile Generator   | ✅  | [View](./Python%20Basics/02.%20Employee%20Profile%20Generator.py) |
 | 03 | Bill Splitter  | ✅  | [View](./Python%20Basics/03.%20Bill%20Splitter.py) |
-| 04 | Movie Ticket Booking Calculator  | ⌛  | In Progress |
+| 04 | Movie Ticket Booking Calculator  | ✅  | [View](./Python%20Basics/04.%20Movie%20Ticket%20Booking%20Calculator.py) |
+| 05 | Travel Weather Planner  | ⌛  | In Progress |
