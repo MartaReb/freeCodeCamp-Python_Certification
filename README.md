@@ -19,3 +19,4 @@ This repository contains my solutions to the **Python Certification** projects b
 | 04 | Movie Ticket Booking Calculator  | ✅  | [View](./01.%20Python%20Basics/04.%20Movie%20Ticket%20Booking%20Calculator.py) |
 | 05 | Travel Weather Planner  | ✅   | [View](./01.%20Python%20Basics/05.%20Travel%20Weather%20Planner.py)  |
 | 06 | Discount Calculator | ✅   | [View](./01.%20Python%20Basics/06.%20Discount%20Calculator.py)  |
+| 07 | Caesar Cipher | ⌛ | In progress |
